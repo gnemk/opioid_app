@@ -15,16 +15,16 @@ https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-op
 
 ### Preparation of Data
 Preparation of data:
-- •	Identify variables to be used
-•	Check for missing values
-•	Check for consistency (spelling, units, etc.)
-•	Add longitudinal and latitudinal data points to allow Streamlit geographic mapping
-•	Add state abbreviation as state codes to allow plotly geographic plotting
-•	Separate dataset into different data sheets based on different Medicaid plans (Fee for Service, Managed Care, All Plans)
+- Identify variables to be used
+- Check for missing values
+-	Check for consistency (spelling, units, etc.)
+-	Add longitudinal and latitudinal data points to allow Streamlit geographic mapping
+-	Add state abbreviation as state codes to allow plotly geographic plotting
+-	Separate dataset into different data sheets based on different Medicaid plans (Fee for Service, Managed Care, All Plans)
 
 ### Future Improvement Recommendations
 The app can be improved in the following areas:
-•	The trend can be select for each year and for each individual state
-•	The trends can be easily compared from state to state
-•	The numbers of claims and claim rates can be correlated 
+-	The trend can be select for each year and for each individual state
+-	The trends can be easily compared from state to state
+-	The numbers of claims and claim rates can be correlated 
 
