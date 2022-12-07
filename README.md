@@ -3,7 +3,7 @@
 
 Created as a result of Chase Romano’s Visual Analytical course in the Healthcare Informatics Analytics master’s program at the University of North Carolina Charlotte, this app allows health care users and government policy makers in the United States to monitor and analyze the Medicaid opioid prescription claims and claim rates in their state from 2013 to 2020.
 
-To view the live app go to 
+To view the live app go to https://opioid-prescription-trend-rate.streamlit.app/
 
 ### Healthcare Problem Context
 Opioid abuse and overdose have been a major concern in the United States since the 1990s. In 2017, U.S. Department of Health and Human Services declared a public health emergency to address national opioid crisis. Medicaid, a joint Federal-State medical assistance program in the U.S. for low-income individuals and families, has spent significantly high cost each year on opioid-based drugs for its beneficiaries. The purpose of this app is to give the users and policy makers a tool to visualize Medicaid opioid prescription claims and claim rates.
