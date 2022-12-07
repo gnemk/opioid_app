@@ -1,5 +1,5 @@
 # U.S. Medicaid Opioid Prescription Claims and Rate Mapping and Trends
-Author: Katherine Meng
+### Author: Katherine Meng
 
 Created as a result of Chase Romano’s Visual Analytical course in the Healthcare Informatics Analytics master’s program at the University of North Carolina Charlotte, this app allows health care users and government policy makers in the United States to monitor and analyze the Medicaid opioid prescription claims and claim rates in their state from 2013 to 2020.
 
