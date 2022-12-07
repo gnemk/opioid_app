@@ -15,7 +15,7 @@ https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-op
 
 ### Preparation of Data
 Preparation of data:
-•	Identify variables to be used
+- •	Identify variables to be used
 •	Check for missing values
 •	Check for consistency (spelling, units, etc.)
 •	Add longitudinal and latitudinal data points to allow Streamlit geographic mapping
